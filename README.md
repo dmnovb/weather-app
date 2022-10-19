@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A react.js app that fetches current weather based on city.
+
 ## Available Scripts
 
 In the project directory, you can run:
